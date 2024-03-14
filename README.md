@@ -1,5 +1,8 @@
 # Recover original images from nextcloud previews
 
+When you find yourself in a situation where you only have downloaded previews from your nextcloud server (e.g. via rightclick -> save as...),
+this repo will help you recover the originals behind those previews.
+
 ## 1. Prepare data
 
 We'll match the preview images over their hashsums, so the first thing we need is
